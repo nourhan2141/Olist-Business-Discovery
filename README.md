@@ -105,7 +105,7 @@ Full methodology and numbers: see the report and notebooks 12–13.
 ## Deliverables
 
 - [`Olist_Business_Discovery_Report.md`](./Olist_Business_Discovery_Report.md) — full written report (company research, dataset understanding, business story, solution proposal, outreach draft)
--  [`Olist_Business_Discovery_Full.pptx`](./Olist_Business_Discovery_Full.pptx) — 28-slide presentation deck
+-  [`Olist_Business_Discovery_Full.pptx`](./(https://github.com/nourhan2141/Olist-Business-Discovery/blob/main/HVIA-TASK1.pptx)) — 28-slide presentation deck
 -  `notebooks/` — full analytical evidence trail
 
 ## Tech Stack
